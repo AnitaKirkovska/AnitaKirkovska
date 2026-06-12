@@ -2,7 +2,7 @@
 
 <p align="center">
   Head of Growth at <a href="https://vellum.ai">Vellum</a> · building personal AI agents in the open<br/>
-  I think about AI and growth out loud, mostly on <a href="https://x.com/anitakirkovska_1">Twitter</a> and my <a href="https://anitakirkovska.com">blog</a>.
+  I think about AI and growth out loud, mostly on <a href="https://x.com/anitakirkovska_1">Twitter</a> and my <a href="https://www.anitakirkovska.com">blog</a>.
 </p>
 
 ---
@@ -21,7 +21,7 @@ The thread running through all of it: **one agent for one person, that actually 
 
 ### ✍️ Where I write
 
-- 📝 [**anitakirkovska.com**](https://anitakirkovska.com) — essays on AI agents and growth. Start with *["You don't know how to use AI"](https://anitakirkovska.com/blog/you-dont-know-how-to-use-ai)*.
+- 📝 [**anitakirkovska.com**](https://www.anitakirkovska.com) — essays on AI agents and growth. Start with *["You don't know how to use AI"](https://www.anitakirkovska.com/blog/you-dont-know-how-to-use-ai)*.
 - 🐦 [**@anitakirkovska_1**](https://x.com/anitakirkovska_1) — daily notes from the intersection of AI and growth.
 
 ### 🌱 A little about me
