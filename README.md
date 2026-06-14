@@ -15,20 +15,20 @@ One agent for one person, that actually remembers you. I build the things I want
 
 ## What I'm Building
 
-🧠 [**Vellum Assistant**](https://github.com/vellum-ai/vellum-assistant) - the main thing. An open-source AI assistant that's easy to set up, does your work 24/7, and actually remembers you. One agent per person, not one agent for everyone.
+🧠 [**Vellum Assistant**](https://github.com/vellum-ai/vellum-assistant) - open-source AI assistant that remembers you.
 
 ## Agent Tools
 
-- 🎲 [**kalshi-cli**](https://github.com/AnitaKirkovska/kalshi-cli) - zero-dependency CLI for reading live odds and trading on Kalshi prediction markets. De-vigs any market into clean probabilities.
+- 🎲 [**kalshi-cli**](https://github.com/AnitaKirkovska/kalshi-cli) - live odds + trading on Kalshi.
 
 ## Agent Interfaces
 
-- 💻 [**dynamic-notch**](https://github.com/AnitaKirkovska/dynamic-notch) - put your assistant inside your MacBook notch. Chat, hold-to-talk voice with streaming TTS, a floating task bulb. Signed + notarized macOS app.
+- 💻 [**dynamic-notch**](https://github.com/AnitaKirkovska/dynamic-notch) - your assistant in the MacBook notch.
 
 ## Writing
 
-- 📝 [**anitakirkovska.com**](https://www.anitakirkovska.com) - essays on AI agents and growth. Start with *["You don't know how to use AI"](https://www.anitakirkovska.com/blog/you-dont-know-how-to-use-ai)*.
-- 🐦 [**@anitakirkovska**](https://x.com/anitakirkovska) - daily notes from the intersection of AI and growth.
+- 📝 [**anitakirkovska.com**](https://www.anitakirkovska.com) - essays on AI agents and growth.
+- 🐦 [**@anitakirkovska**](https://x.com/anitakirkovska) - daily notes on AI and growth.
 
 ---
 
