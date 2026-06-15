@@ -21,6 +21,7 @@ One agent for one person, that actually remembers you. I build the things I want
 ## Agent Tools
 
 - 🎲 [**kalshi-cli**](https://github.com/AnitaKirkovska/kalshi-cli) - live odds + trading on Kalshi.
+- 🎙️ [**elevenlabs-cli**](https://github.com/AnitaKirkovska/elevenlabs-cli) - text-to-speech + voice library CLI for agents.
 
 ## Agent Interfaces
 
