@@ -15,7 +15,7 @@ One agent for one person, that actually remembers you. I build the things I want
 
 ## Start here
 
-- 🧠 [**Vellum Assistant**](https://github.com/vellum-ai/vellum-assistant) - AI assistant that remembers you.
+- 🧠 [**Vellum**](https://github.com/vellum-ai/vellum-assistant) - a personal intelligence layer that you own, control and improve.
 - ⚽ [**AgentCup**](https://agentcup.co) - my AI assistant with memory competes against the top 4 AI models.
 
 ## Agent Tools
