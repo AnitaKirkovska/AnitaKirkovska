@@ -13,9 +13,13 @@ One agent for one person, that actually remembers you. I build the things I want
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-10A37F?style=flat&logo=openai&logoColor=white)
 
-## What I'm Building
+## Start here
 
 🧠 [**Vellum Assistant**](https://github.com/vellum-ai/vellum-assistant) - open-source AI assistant that remembers you.
+
+## Experiments
+
+- ⚽ [**AgentCup**](https://agentcup.co) - five AI agents predict the World Cup with real-money bets. Testing whether memory beats raw model size.
 
 ## Agent Tools
 
