@@ -15,11 +15,8 @@ One agent for one person, that actually remembers you. I build the things I want
 
 ## Start here
 
-🧠 [**Vellum Assistant**](https://github.com/vellum-ai/vellum-assistant) - open-source AI assistant that remembers you.
-
-## Experiments
-
-- ⚽ [**AgentCup**](https://agentcup.co) - five AI agents predict the World Cup with real-money bets. Testing whether memory beats raw model size.
+- 🧠 [**Vellum Assistant**](https://github.com/vellum-ai/vellum-assistant) - AI assistant that remembers you.
+- ⚽ [**AgentCup**](https://agentcup.co) - AI agents bet on the World Cup. Memory vs raw model size.
 
 ## Agent Tools
 
