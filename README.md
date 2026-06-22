@@ -22,11 +22,13 @@ One agent for one person, that actually remembers you. I build the things I want
 
 - 🎲 [**kalshi-cli**](https://github.com/AnitaKirkovska/kalshi-cli) - live odds + trading on Kalshi.
 - 🎙️ [**elevenlabs-cli**](https://github.com/AnitaKirkovska/elevenlabs-cli) - text-to-speech + voice library CLI for agents.
+- 🧭 [**model-router**](https://github.com/AnitaKirkovska/model-router) - harness-agnostic LLM router, sends each message to the best model.
 - 🛠 [**Meta-CLI**](https://github.com/AnitaKirkovska/Meta-CLI) - the meta-skill for shipping CLI tools + their SKILL.md.
 
 ## Agent Interfaces
 
 - 💻 [**dynamic-notch**](https://github.com/AnitaKirkovska/dynamic-notch) - your assistant in the MacBook notch.
+- 🔔 [**proactive-slacks**](https://github.com/AnitaKirkovska/proactive-slacks) - let your assistant reach you on Slack, on purpose.
 
 ## Writing
 
